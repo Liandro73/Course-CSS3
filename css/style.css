@@ -1,5 +1,32 @@
+/* AULA 18
+#base {background-color: green; width: 600px; height: 600px;}
+#esquerda {background-color: red; width: 300px; height: 300px; float: left;}
+#direita {background-color: blue; width: 300px; height: 300px; float: right;}
+*/
+
+/* AULAS 16 e 17
+#cores { width: 200px; height: 200px; background-color: #ffffff;}
+#cores1 { width: 200px; height: 200px; background: linear-gradient(red, blue);}
+*/
+
+/* AULAS 13, 14 e 15
+* {font-size: 100%;}
+p {font-family: Times, "Times New Roman", serif; font-variant: small-caps; font-weight: bold; font-style: oblique; font-size: 1em;}
+*/
+
+/* AULA 12
+#bloco {background-color: green; width: 300px; height: 150px; border-radius: 20px;}
+*/
+
+/* AULA 11
+#conteudo {background-color: red; width: 300px; height: 70px; overflow: auto;}
+#conteudo p {opacity: 0.5;}
+*/
+
+/* AULA 10
 * {box-sizing: border-box; box-shadow: 10px 10px blue;}
 #conteudo {background-color: red; width: 300px; padding: 20px;}
+*/
 
 /* AULAS 08 E 09
 p {color: red; text-align: justify; text-indent: 20px; direction: ltr; letter-spacing: 5px; word-spacing: 4px; line-height: 20px; text-transform: uppercase;}
