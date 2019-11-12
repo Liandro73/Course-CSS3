@@ -1,3 +1,12 @@
+/* AULA 20
+#exemplo {border-style: solid; border-width: 5px; border-color: red; outline: dotted blue  5px}
+*/
+
+/* AULA 19
+#conteudo {width: 600px; height: 1200px; background-color: red; position: relative;}
+#texto {width: 500px; background-color: green; position: absolute; left: 0; top: 0;}
+*/
+
 /* AULA 18
 #base {background-color: green; width: 600px; height: 600px;}
 #esquerda {background-color: red; width: 300px; height: 300px; float: left;}
